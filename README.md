@@ -20,6 +20,14 @@ go mod init booklib
 go run ./...
 ```
 
+## Тесты
+
+```
+go get github.com/stretchr/testify
+go mod tidy
+go test ./... -v
+```
+
 ## Работа
 
 ```
