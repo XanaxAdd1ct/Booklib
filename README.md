@@ -24,7 +24,6 @@ go run ./...
 
 ```
 go get github.com/stretchr/testify
-go mod tidy
 go test ./... -v
 ```
 
