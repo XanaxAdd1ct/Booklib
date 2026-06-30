@@ -9,7 +9,7 @@ CLI-приложение для управления личной библиот
 ## Установка
 
 ```
-git clone https://github.com/XanaxAdd1ct/Second.git
+git clone https://github.com/XanaxAdd1ct/booklib.git
 cd booklib
 go mod init booklib
 ```
